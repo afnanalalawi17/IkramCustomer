@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="more" transform="translate(-111 -408)">
+    <circle id="Ellipse" cx="12" cy="12" r="12" transform="translate(111 408)" fill="#f6f6f6"/>
+    <path id="Stroke" d="M6,3,3,0,0,3" transform="translate(121.5 423.5) rotate(-90)" fill="none" stroke="#504e49" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>
